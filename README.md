@@ -1,1 +1,0 @@
-# trabalhodequimica.octocat.github.io
