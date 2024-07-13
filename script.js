@@ -1,4 +1,5 @@
-document.getElementById('menu-icon').addEventListener('click', function() {
-    var sideMenu = document.getElementById('side-menu');
-    sideMenu.classList.toggle('active');
+// script.js
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Adiciona interatividade aqui, se necessário.
 });
