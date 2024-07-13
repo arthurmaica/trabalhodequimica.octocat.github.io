@@ -53,6 +53,13 @@ section.visible {
     transform: translateY(0);
 }
 
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
 footer {
     background: #333;
     color: white;
@@ -62,6 +69,13 @@ footer {
 
 footer section#sobre-nos {
     margin-bottom: 20px;
+}
+
+footer section#sobre-nos img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
 }
 
 footer p {
